@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    width:650px;;
+    height: 128px;
+    border: 2px solid black;
+    justify-content: space-around;
+    background-color: #D1BB9E;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.card img {
+    height: 128px;
+    border-radius: 50%;
+}
